@@ -1,0 +1,12 @@
+
+.tobeAnimated{
+    border : 2px;
+    padding : 20px;
+    width: 300px;
+    height: 400px;
+    background: #EEE;
+    position: absolute;
+    top:-500px; 
+  
+
+}
