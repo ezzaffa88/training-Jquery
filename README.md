@@ -1,2 +1,2 @@
-#jquery training
-this project is for learning jquery
+# jquery training
+### this project is for learning jquery
